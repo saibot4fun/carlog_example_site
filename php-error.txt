@@ -1,2 +1,0 @@
-[12-Jun-2019 17:19:06] PHP Notice:  Undefined index:  nome in C:\BetaPortal\site_novo\contato.php on line 173
-[12-Jun-2019 17:19:22] PHP Notice:  Undefined index:  nome in C:\BetaPortal\site_novo\contato.php on line 173
